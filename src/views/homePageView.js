@@ -1,9 +1,9 @@
 export const homePage = () => {
-  const homePage = document.createElement("div");
+  const homeView = document.createElement("div");
   // I use String.raw just to get fancy colors for the HTML in VS Code.
-  homePage.innerHTML = String.raw`
-      <h1>Home Page!!!</h1>
+  homeView.innerHTML = String.raw`
+      <h1 class="home__title">Home Page!!!</h1>
+      <ul class="home__news"></ul>
     `;
-
-  return homePage;
+  return homeView;
 };

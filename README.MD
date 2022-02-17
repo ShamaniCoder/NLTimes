@@ -4,17 +4,15 @@ NLTimes is a news website, users can look through the news that they want to rea
 
 ### Api Source: [https://developer.nytimes.com/apis](https://developer.nytimes.com/apis)
 
-### Color Palette: #ffffff, #000000
 
 ## Must Have
 
-- [ ]  Users can search articles with keyword
-- [ ]  Homepage lists most popular content
+- [X]  Homepage shows most popular articles
 - [ ]  Users can look at the NyTimes bestseller lists
 - [ ]  User can select and go to different topics via the navigation menu
+- [ ]  Users can search articles with keyword
 
  
 
 ## Can Have
-
 - [ ]  Transition between pages
