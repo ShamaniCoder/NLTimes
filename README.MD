@@ -1,9 +1,14 @@
 # NLTimes
 
-NLTimes is a news website, users can look through the news that they want to read, search specific topics, and can read the content or can be redirected to the original news website.
+NLTimes is a news website, users can look through the news that they want to read, search specific topics,can be redirected to the original news article.
 
 ### Api Source: [https://developer.nytimes.com/apis](https://developer.nytimes.com/apis)
 
+
+### Color Palette
+- Texts: #000000
+- Background: #ffffff
+- Secondary: #808080
 
 ## Must Have
 
@@ -14,5 +19,6 @@ NLTimes is a news website, users can look through the news that they want to rea
 
  
 
-## Can Have
+## Nice To Have Have
 - [ ]  Transition between pages
+- [ ]  User can go to detail page of news
